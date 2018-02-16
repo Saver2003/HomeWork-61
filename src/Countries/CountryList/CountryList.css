@@ -1,0 +1,11 @@
+.CountryList {
+    list-style: none;
+    max-width: 250px;
+    text-align: left;
+    display: inline-block;
+}
+
+.CountryList li {
+    padding-bottom: 5px;
+    cursor: pointer;
+}
